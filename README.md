@@ -1,5 +1,5 @@
 # Quera-Solutions
-Quera Problem Solutions
+Quera Problem Solutions (updating per a day)
 ## solved with
 - Java
 - C++
