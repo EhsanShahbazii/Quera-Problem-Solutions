@@ -19,4 +19,5 @@ public class Main {
             System.out.println("Water");
     }
 }
+
 // <Ctrl+Z>
