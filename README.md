@@ -22,6 +22,7 @@ ehsan.shahbazipc@gmail.com
 - JavaScript
 
 ## Problem Lists
+### Technology
 - [name: soale zard id: 3537](https://quera.org/problemset/3537/)
 - [name: yek soale sade id: 2885](https://quera.org/problemset/2885/)
 - [name: yakh dar chi id: 3429](https://quera.org/problemset/3429/)
