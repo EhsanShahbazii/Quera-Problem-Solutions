@@ -57,4 +57,11 @@ ehsan.shahbazipc@gmail.com
 - [name: farmande baz neshaste id:  72874](https://quera.org/problemset/72874/)
 - [name: gozareshe kar id:  49535](https://quera.org/problemset/49535/)
 - [name: magsom aleyh haye dardesar saz id:  33045](https://quera.org/problemset/33045/)
-- [name:  id:  ]()
+- [name: EsmHa id: 2529](https://quera.org/problemset/2529/):warning:
+- [name:  id: ]()
+- [name:  id: ]()
+- [name:  id: ]()
+- [name:  id: ]()
+- [name:  id: ]()
+- [name:  id: ]()
+- [name:  id: ]()
