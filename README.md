@@ -12,6 +12,14 @@ has solved the questions and wants to see other solutions and practice Or for so
 ## THIS REPOSITORY :warning:HARMFUL:warning: FOR WHO:
 has just started solving the questions and the algorithm and at the very beginning wants to copy and paste the solutions from here without understanding the code.
 
+## AND FINALLY:
+You can also share your solutions in this repository!
+- email me your solution
+- fork this repo & add your solution
+
+## My Email
+ehsan.shahbazipc@gmail.com
+
 ## Problem Lists
 - [soale zard id: 3537](https://quera.org/problemset/3537/)
 - [yek soale sade id: 2885](https://quera.org/problemset/2885/)
