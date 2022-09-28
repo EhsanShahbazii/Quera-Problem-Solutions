@@ -1,10 +1,5 @@
 # Quera-Solutions
 Quera Problem Solutions (updating per a day)
-## solved with
-- Java
-- C++
-- Python
-- JavaScript
 
 ## THIS REPOSITORY :white_check_mark:USEFUL:white_check_mark: FOR WHO:
 has solved the questions and wants to see other solutions and practice Or for someone who could not solve the question after several attempts and wants to see the solution.
@@ -19,6 +14,12 @@ You can also share your solutions in this repository!
 
 ## My Email
 ehsan.shahbazipc@gmail.com
+
+## solved with
+- Java
+- C++
+- Python
+- JavaScript
 
 ## Problem Lists
 - [soale zard id: 3537](https://quera.org/problemset/3537/)
