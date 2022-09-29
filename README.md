@@ -12,6 +12,8 @@ You can also share your solutions in this repository!
 - email me your solution
 - fork this repo & add your solution
 
+write your name at the end of your code if you like.
+
 ## My Email
 ehsan.shahbazipc@gmail.com
 
