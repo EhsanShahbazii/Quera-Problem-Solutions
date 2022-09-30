@@ -27,17 +27,32 @@ ehsan.shahbazipc@gmail.com
 
 ## Problem Lists
 ### Tournament
-- [name: soale zard id: 3537](https://quera.org/problemset/3537/)
-- [name: yek soale sade id: 2885](https://quera.org/problemset/2885/)
-- [name: yakh dar chi id: 3429](https://quera.org/problemset/3429/)
-- [name: mashge emshabe bager id: 10230](https://quera.org/problemset/10230/)
-- [name: tak ragami id: 3539](https://quera.org/problemset/3539/)
-- [name: zarbe jadvale gonde id: 3409](https://quera.org/problemset/3409/)
-- [name: roze azadi bayan dar barare id: 10162](https://quera.org/problemset/10162/)
-- [name: chape bar aks id: 3405](https://quera.org/problemset/3405/)
-- [name: hamayeshe zendegi behtar id: 10325](https://quera.org/problemset/10325/)
-- [name: do nogte khat id: 3414](https://quera.org/problemset/3414/)
-- [name: khar dar chaman faravone id: 4065](https://quera.org/problemset/4065/)
+
+| Problem Name | Problem ID |
+| ------------ | ---------- |
+| [soale zard](https://quera.org/problemset/3537/) | 3537 |
+| [yek soale sade](https://quera.org/problemset/2885/) | 2885 |
+| [yakh dar chi](https://quera.org/problemset/3429/) | 3429 |
+| [mashge emshabe bager](https://quera.org/problemset/10230/) | 10230 |
+| [tak ragami](https://quera.org/problemset/3539/) | 3539 |
+| [zarbe jadvale gonde](https://quera.org/problemset/3409/) | 3409 |
+| [roze azadi bayan dar barare](https://quera.org/problemset/10162/) | 10162 |
+| [chape bar aks](https://quera.org/problemset/3405/) | 3405 |
+| [hamayeshe zendegi behtar](https://quera.org/problemset/10325/) | 10325 |
+| [do nogte khat](https://quera.org/problemset/3414/) | 3414 |
+| [khar dar chaman faravone](https://quera.org/problemset/4065/) | 4065 |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+
 - [name: behdasht va salamat id: 51865](https://quera.org/problemset/51865/)
 - [name: komak be capi id: 8838](https://quera.org/problemset/8838/)
 - [name: shatranje herfei id: 2636](https://quera.org/problemset/2636/)
