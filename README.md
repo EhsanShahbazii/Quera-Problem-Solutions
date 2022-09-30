@@ -28,7 +28,7 @@ ehsan.shahbazipc@gmail.com
 ## Problem Lists
 ### Tournament
 
-| Problem Name | Problem ID |
+| Problem Name & Link | Problem ID |
 | ------------ | ---------- |
 | [soale zard](https://quera.org/problemset/3537/) | 3537 |
 | [yek soale sade](https://quera.org/problemset/2885/) | 2885 |
