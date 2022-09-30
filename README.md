@@ -81,31 +81,22 @@ ehsan.shahbazipc@gmail.com
 | [t shirt barande](https://quera.org/problemset/3107/) | 3107 |
 | [esnap dar shekarestan](https://quera.org/problemset/8938/) | 8938 |
 | [zini](https://quera.org/problemset/33023/):warning: | 33023 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-
-- [name: jame bozorgan id: 2551](https://quera.org/problemset/2551/)
-- [name: pashmal aga id: 72877](https://quera.org/problemset/72877/)
-- [name: khoshamad id: 123798](https://quera.org/problemset/123798/)
-- [name: ramz id: 17902](https://quera.org/problemset/17902/)
-- [name: bob va kelide telvezion id: 14580](https://quera.org/problemset/14580/)
-- [name: sepide id: 31020](https://quera.org/problemset/31020/)
-- [name: kalame kalame id: 108665](https://quera.org/problemset/108665/)
-- [name: kaktus haye por dardesar id: 52542](https://quera.org/problemset/52542/)
-- [name: chideman id: 2534](https://quera.org/problemset/2534/)
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
-- [name:  id: ]()
+| [jame bozorgan](https://quera.org/problemset/2551/) | 2551 |
+| [pashmal aga](https://quera.org/problemset/72877/) | 72877 |
+| [khoshamad](https://quera.org/problemset/123798/) | 123798 |
+| [ramz](https://quera.org/problemset/17902/) | 17902 |
+| [bob va kelide telvezion](https://quera.org/problemset/14580/) | 14580 |
+| [sepide](https://quera.org/problemset/31020/) | 31020 |
+| [kalame kalame](https://quera.org/problemset/108665/) | 108665 |
+| [kaktus haye por dardesar](https://quera.org/problemset/52542/) | 52542 |
+| [chideman](https://quera.org/problemset/2534/) | 2534 |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
