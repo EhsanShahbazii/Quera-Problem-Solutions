@@ -71,33 +71,22 @@ ehsan.shahbazipc@gmail.com
 | [team keshi](https://quera.org/problemset/80651/) | 80651 |
 | [yek saat](https://quera.org/problemset/2886/) | 2886 |
 | [jade keshi](https://quera.org/problemset/2637/) | 2637 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| [kelide jerakh](https://quera.org/problemset/49028/) | 49028 |
+| [sorakhe moosh](https://quera.org/problemset/91712/) | 91712 |
+| [sarab](https://quera.org/problemset/4067/):warning: | 4067 |
+| [morabba ha va shokolate egtesadi](https://quera.org/problemset/20249/) | 20249 |
+| [bazgasht az boostan](https://quera.org/problemset/3029/) | 3029 |
+| [badkhahe pooyan](https://quera.org/problemset/2705/):warning: | 2705 |
+| [soale nafasgir](https://quera.org/problemset/26651/) | 26651 |
+| [t shirt barande](https://quera.org/problemset/3107/) | 3107 |
+| [esnap dar shekarestan](https://quera.org/problemset/8938/) | 8938 |
+| [zini](https://quera.org/problemset/33023/):warning: | 33023 |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 
-
-- [name: kelide jerakh id: 49028](https://quera.org/problemset/49028/)
-- [name: sorakhe moosh id: 91712](https://quera.org/problemset/91712/)
-- [name: sarab id: 4067](https://quera.org/problemset/4067/):warning:
-- [name: morabba ha va shokolate egtesadi id: 20249](https://quera.org/problemset/20249/)
-- [name: bazgasht az boostan id: 3029](https://quera.org/problemset/3029/)
-- [name: badkhahe pooyan id: 2705](https://quera.org/problemset/2705/):warning:
-- [name: soale nafasgir id: 26651](https://quera.org/problemset/26651/)
-- [name: t shirt barande id: 3107](https://quera.org/problemset/3107/)
-- [name: esnap dar shekarestan id: 8938](https://quera.org/problemset/8938/)
-- [name: zini id: 33023](https://quera.org/problemset/33023/):warning:
 - [name: jame bozorgan id: 2551](https://quera.org/problemset/2551/)
 - [name: pashmal aga id: 72877](https://quera.org/problemset/72877/)
 - [name: khoshamad id: 123798](https://quera.org/problemset/123798/)
