@@ -90,11 +90,15 @@ ehsan.shahbazipc@gmail.com
 | [kalame kalame](https://quera.org/problemset/108665/) | 108665 |
 | [kaktus haye por dardesar](https://quera.org/problemset/52542/) | 52542 |
 | [chideman](https://quera.org/problemset/2534/) | 2534 |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+| [team melli nokhod khori](https://quera.org/problemset/10163/):warning: | 10163 |
+| [loknat](https://quera.org/problemset/2530/) | 2530 |
+| [soup sabzijat](https://quera.org/problemset/72881/) | 72881 |
+| [reshte chhakr](https://quera.org/problemset/106795/) | 106795 |
+| [gol banu va dogolo hayash](https://quera.org/problemset/72876/) | 72876 |
+| [sikl gereftan dar barare](https://quera.org/problemset/10166/):warning: | 10166 |
+| [chapgar](https://quera.org/problemset/64434/) | 64434 |
+| [safhe kelide entekhabi](https://quera.org/problemset/7998/) | 7998 |
+| [salam salam khodahafez](https://quera.org/problemset/31021/) | 31021 |
 | []() |  |
 | []() |  |
 | []() |  |
