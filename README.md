@@ -61,6 +61,16 @@ ehsan.shahbazipc@gmail.com
 | [mosallase khayyam pascal](https://quera.org/problemset/3410/) | 3410 |
 | [hendone khori](https://quera.org/problemset/35253/) | 35253 |
 | [gerdo shekastam](https://quera.org/problemset/3540/) | 3540 |
+| [dorbine madar baste](https://quera.org/problemset/2794/) | 2794 |
+| [farmande baz neshaste](https://quera.org/problemset/72874/) | 72874 |
+| [gozareshe kar ](https://quera.org/problemset/49535/) | 49535 |
+| [magsom aleyh haye dardesar saz](https://quera.org/problemset/33045/) | 33045 |
+| [EsmHa](https://quera.org/problemset/2529/):warning: | 2529 |
+| [estart up ba kelas](https://quera.org/problemset/10326/):warning: | 10326 |
+| [dayere ajib](https://quera.org/problemset/34081/):warning: | 34081 |
+| [team keshi](https://quera.org/problemset/80651/) | 80651 |
+| [yek saat](https://quera.org/problemset/2886/) | 2886 |
+| [jade keshi](https://quera.org/problemset/2637/) | 2637 |
 |  |  |
 |  |  |
 |  |  |
@@ -77,16 +87,7 @@ ehsan.shahbazipc@gmail.com
 |  |  |
 |  |  |
 
-- [name: dorbine madar baste id: 2794](https://quera.org/problemset/2794/)
-- [name: farmande baz neshaste id:  72874](https://quera.org/problemset/72874/)
-- [name: gozareshe kar id:  49535](https://quera.org/problemset/49535/)
-- [name: magsom aleyh haye dardesar saz id:  33045](https://quera.org/problemset/33045/)
-- [name: EsmHa id: 2529](https://quera.org/problemset/2529/):warning:
-- [name: estart up ba kelas id: 10326](https://quera.org/problemset/10326/):warning:
-- [name: dayere ajib id: 34081](https://quera.org/problemset/34081/):warning:
-- [name: team keshi id: 80651](https://quera.org/problemset/80651/)
-- [name: yek saat id: 2886](https://quera.org/problemset/2886/)
-- [name: jade keshi id: 2637](https://quera.org/problemset/2637/)
+
 - [name: kelide jerakh id: 49028](https://quera.org/problemset/49028/)
 - [name: sorakhe moosh id: 91712](https://quera.org/problemset/91712/)
 - [name: sarab id: 4067](https://quera.org/problemset/4067/):warning:
