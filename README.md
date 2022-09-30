@@ -51,26 +51,32 @@ ehsan.shahbazipc@gmail.com
 | [test binai](https://quera.org/problemset/2659/) | 2659 |
 | [sharzhe mmobile](https://quera.org/problemset/17244/) | 17244 |
 | [bolandgo](https://quera.org/problemset/3430/) | 3430  |
+| [soale barname nevisi barname nevisi soal](https://quera.org/problemset/3408/) | 3408 |
+| [to chegadr ezafe vazn dari](https://quera.org/problemset/3404/) | 3404 |
+| [reshte fibonachi](https://quera.org/problemset/17675/) | 17675 |
+| [saba va soale sade](https://quera.org/problemset/31025/) | 31025 |
+| [khob bager sarma khorde](https://quera.org/problemset/10231/) | 10231 |
+| [asemane shekar abad](https://quera.org/problemset/6082/) | 6082 |
+| [sade tar](https://quera.org/problemset/3403/) | 3403 |
+| [mosallase khayyam pascal](https://quera.org/problemset/3410/) | 3410 |
+| [hendone khori](https://quera.org/problemset/35253/) | 35253 |
+| [gerdo shekastam](https://quera.org/problemset/3540/) | 3540 |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
 |  |  |
-- 
-- 
-- 
-- 
-- 
-- [name: soale barname nevisi barname nevisi soal id: 3408](https://quera.org/problemset/3408/)
-- [name: to chegadr ezafe vazn dari id: 3404](https://quera.org/problemset/3404/)
-- [name: reshte fibonachi id: 17675](https://quera.org/problemset/17675/)
-- [name: saba va soale sade id: 31025](https://quera.org/problemset/31025/)
-- [name: khob bager sarma khorde id: 10231](https://quera.org/problemset/10231/)
-- [name: asemane shekar abad id: 6082](https://quera.org/problemset/6082/)
-- [name: sade tar id: 3403](https://quera.org/problemset/3403/)
-- [name: mosallase khayyam pascal id: 3410](https://quera.org/problemset/3410/)
-- [name: hendone khori id: 35253](https://quera.org/problemset/35253/)
-- [name: gerdo shekastam id: 3540](https://quera.org/problemset/3540/)
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
 - [name: dorbine madar baste id: 2794](https://quera.org/problemset/2794/)
 - [name: farmande baz neshaste id:  72874](https://quera.org/problemset/72874/)
 - [name: gozareshe kar id:  49535](https://quera.org/problemset/49535/)
