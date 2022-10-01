@@ -99,7 +99,17 @@ ehsan.shahbazipc@gmail.com
 | [chapgar](https://quera.org/problemset/64434/) | 64434 |
 | [safhe kelide entekhabi](https://quera.org/problemset/7998/) | 7998 |
 | [salam salam khodahafez](https://quera.org/problemset/31021/) | 31021 |
-| []() |  |
+| [handesferi ha](https://quera.org/problemset/110014/) | 110014 |
+| [nobarane](https://quera.org/problemset/104588/) | 104588 |
+| [cooler ya bokhari](https://quera.org/problemset/147635/) | 147635 |
+| [majid milad reshte sazi](https://quera.org/problemset/9110/) | 9110 |
+| [tekrare code cupi](https://quera.org/problemset/127289/) | 127289 |
+| [vasate sandali agab](https://quera.org/problemset/3412/):warning: | 3412 |
+| [madrase shabane rozi](https://quera.org/problemset/61038/):warning: | 61038 |
+| [name bad](https://quera.org/problemset/7609/) | 7609 |
+| [mosabege asan](https://quera.org/problemset/2439/) | 2439 |
+| [jashn vare](https://quera.org/problemset/104589/) | 104589 |
+| [do shogle](https://quera.org/problemset/111990/) | 111990 |
 | []() |  |
 | []() |  |
 | []() |  |
