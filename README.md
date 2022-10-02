@@ -110,6 +110,26 @@ ehsan.shahbazipc@gmail.com
 | [mosabege asan](https://quera.org/problemset/2439/) | 2439 |
 | [jashn vare](https://quera.org/problemset/104589/) | 104589 |
 | [do shogle](https://quera.org/problemset/111990/) | 111990 |
+| [mohasebe](https://quera.org/problemset/52545/) | 52545 |
+| [nomayeshgahe majazi](https://quera.org/problemset/110015/) | 110015 |
+| [por gusht](https://quera.org/problemset/72882/) | 72882 |
+| [gatare kamyabi](https://quera.org/problemset/20257/):warning: | 20257 |
+| [jooj](https://quera.org/problemset/72875/) | 72875 |
+| [kevin va godrate shalap](https://quera.org/problemset/14581/) | 14581 |
+| [harekat roye zoruf](https://quera.org/problemset/6375/) | 6375 |
+| [tekslang](https://quera.org/problemset/17245/):warning: | 17245 |
+| [sange barande](https://quera.org/problemset/3109/) | 3109 |
+| [sible tir andazi](https://quera.org/problemset/141570/) | 141570 |
+| [modarresane sharif](https://quera.org/problemset/140039/) | 140039 |
+| [hichvagt magrur nasho](https://quera.org/problemset/33046/) | 33046 |
+| [olage gav nama](https://quera.org/problemset/72878/) | 72878 |
+| [majune suske grmez va esfanaje gandide](https://quera.org/problemset/72880/) | 72880 |
+| [dominu ha](https://quera.org/problemset/17676/):warning: | 17676 |
+| [dar mogabele fil](https://quera.org/problemset/3030/) | 3030 |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
 | []() |  |
 | []() |  |
 | []() |  |
