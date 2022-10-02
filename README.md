@@ -126,9 +126,9 @@ ehsan.shahbazipc@gmail.com
 | [majune suske grmez va esfanaje gandide](https://quera.org/problemset/72880/) | 72880 |
 | [dominu ha](https://quera.org/problemset/17676/):warning: | 17676 |
 | [dar mogabele fil](https://quera.org/problemset/3030/) | 3030 |
-| []() |  |
-| []() |  |
-| []() |  |
+| [the teparted](https://quera.org/problemset/132251/) | 132251 |
+| [seda dar](https://quera.org/problemset/140033/) | 140033 |
+| [shokolat](https://quera.org/problemset/146465/) | 146465 |
 | []() |  |
 | []() |  |
 | []() |  |
