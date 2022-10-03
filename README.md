@@ -129,6 +129,16 @@ ehsan.shahbazipc@gmail.com
 | [the teparted](https://quera.org/problemset/132251/) | 132251 |
 | [seda dar](https://quera.org/problemset/140033/) | 140033 |
 | [shokolat](https://quera.org/problemset/146465/) | 146465 |
+| [zojit](https://quera.org/problemset/140035/) | 140035 |
+| [sathe etiad](https://quera.org/problemset/2887/):warning: | 2887 |
+| [reshte morede alage](https://quera.org/problemset/52546/):warning: | 52546 |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
 | []() |  |
 | []() |  |
 | []() |  |
