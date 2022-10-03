@@ -132,11 +132,17 @@ ehsan.shahbazipc@gmail.com
 | [zojit](https://quera.org/problemset/140035/) | 140035 |
 | [sathe etiad](https://quera.org/problemset/2887/):warning: | 2887 |
 | [reshte morede alage](https://quera.org/problemset/52546/):warning: | 52546 |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+| [narmeshe jadval](https://quera.org/problemset/3413/):warning: | 3413 |
+| [bazde azmun](https://quera.org/problemset/145639/) | 145639 |
+| [barcode](https://quera.org/problemset/52544/):warning: | 52544 |
+| [gole fil sefat](https://quera.org/problemset/72885/) | 72885 |
+| [takhfife jashn vare](https://quera.org/problemset/44080/):warning: | 44080 |
+| [debug shayeste](https://quera.org/problemset/142759/) | 142759 |
+| [serial](https://quera.org/problemset/10936/) | 10936 |
+| [chi sovan](https://quera.org/problemset/33026/) | 33026 |
+| [moadele khat](https://quera.org/problemset/147193/) | 147193 |
+| [morraba ha va gafase bandi](https://quera.org/problemset/20250/) | 20250 |
+| [atal matal tutule](https://quera.org/problemset/69899/):warning: | 69899 |
 | []() |  |
 | []() |  |
 | []() |  |
