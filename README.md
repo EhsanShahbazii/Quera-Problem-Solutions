@@ -143,6 +143,22 @@ ehsan.shahbazipc@gmail.com
 | [moadele khat](https://quera.org/problemset/147193/) | 147193 |
 | [morraba ha va gafase bandi](https://quera.org/problemset/20250/) | 20250 |
 | [atal matal tutule](https://quera.org/problemset/69899/):warning: | 69899 |
+| [raees va karkhane shokolat sazi](https://quera.org/problemset/20251/):warning: | 20251 |
+| [bager hal nadare vali pul dare](https://quera.org/problemset/10234/):warning: | 10234 |
+| [energy khor](https://quera.org/problemset/3031/) | 3031 |
+| [naelam ku](https://quera.org/problemset/64436/):warning: | 64436 |
+| [dbug morattab sazi](https://quera.org/problemset/142758/) | 142758 |
+| [kelase tagviati](https://quera.org/problemset/9022/):warning: | 9022 |
+| [tetris](https://quera.org/problemset/33025/):warning: | 33025 |
+| [mosallas ha](https://quera.org/problemset/3561/):warning: | 3561 |
+| [charpak](https://quera.org/problemset/31022/):warning: | 31022 |
+| [mosahebe ba vaziran](https://quera.org/problemset/6083/):warning: | 6083 |
+| [tataboge reshte](https://quera.org/problemset/10943/):warning: | 10943 |
+| [reshte haye varozhane](https://quera.org/problemset/69898/):warning: | 69898 |
+| [hu hu chi chi](https://quera.org/problemset/15710/) | 15710 |
+| [daste be daste](https://quera.org/problemset/3433/):warning: | 3433 |
+| [masahate pichide](https://quera.org/problemset/147191/) | 147191 |
+| []() |  |
 | []() |  |
 | []() |  |
 | []() |  |
