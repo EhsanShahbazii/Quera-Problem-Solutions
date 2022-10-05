@@ -158,10 +158,15 @@ ehsan.shahbazipc@gmail.com
 | [hu hu chi chi](https://quera.org/problemset/15710/) | 15710 |
 | [daste be daste](https://quera.org/problemset/3433/):warning: | 3433 |
 | [masahate pichide](https://quera.org/problemset/147191/) | 147191 |
-| []() |  |
-| []() |  |
-| []() |  |
-| []() |  |
+| [haddeaksar yale graph](https://quera.org/problemset/145366/) | 145366 |
+| [jeddi](https://quera.org/problemset/34085/):warning: | 34085 |
+| [jaygasht ha](https://quera.org/problemset/2441/):warning: | 2441 |
+| [divare mehrbani](https://quera.org/problemset/49029/):warning: |  |
+| [sinose tabii](https://quera.org/problemset/147194/):warning: | 147194 |
+| [kagaze chahar vajhi](https://quera.org/problemset/44077/) | 44077 |
+| [kuchake bozorg](https://quera.org/problemset/49030/):warning: | 49030 |
+| [matrix mojaverat](https://quera.org/problemset/145365/):warning: | 145365 |
+| [edare maliat](https://quera.org/problemset/17247/):warning: | 17247 |
 | []() |  |
 | []() |  |
 | []() |  |
