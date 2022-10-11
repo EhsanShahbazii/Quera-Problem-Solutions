@@ -174,7 +174,7 @@ ehsan.shahbazipc@gmail.com
 | ------------ | ---------- |
 | [factorial](https://quera.org/problemset/589/) | 589 |
 | [adade fisagorasi](https://quera.org/problemset/280/) | 280 |
-| []() |  |
+| [adad chop kon](https://quera.org/problemset/9774/) | 9774 |
 | []() |  |
 | []() |  |
 | []() |  |
