@@ -172,6 +172,10 @@ ehsan.shahbazipc@gmail.com
 
 | Problem Name & Link | Problem ID |
 | ------------ | ---------- |
+| [factorial](https://quera.org/problemset/589/) | 589 |
+| [adade fisagorasi](https://quera.org/problemset/280/) | 280 |
+| []() |  |
+| []() |  |
 | []() |  |
 | []() |  |
 | []() |  |
