@@ -182,6 +182,14 @@ ehsan.shahbazipc@gmail.com
 | [adade khode maglub](https://quera.org/problemset/617/) | 617 |
 | [tarikh tavallod](https://quera.org/problemset/615/) | 615 |
 | [adade avval](https://quera.org/problemset/293/) | 293 |
+| [lozi haye setarei](https://quera.org/problemset/9773/) | 9773 |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
+| []() |  |
 | []() |  |
 | []() |  |
 | []() |  |
