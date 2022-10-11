@@ -184,7 +184,7 @@ ehsan.shahbazipc@gmail.com
 | [adade avval](https://quera.org/problemset/293/) | 293 |
 | [lozi haye setarei](https://quera.org/problemset/9773/) | 9773 |
 | [avval bini](https://quera.org/problemset/649/) | 649 |
-| []() |  |
+| [chope lozi](https://quera.org/problemset/618/) | 618 |
 | []() |  |
 | []() |  |
 | []() |  |
