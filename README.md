@@ -197,7 +197,7 @@ ehsan.shahbazipc@gmail.com
 | [jame adad](https://quera.org/problemset/637/) | 637 |
 | [nardebuni](https://quera.org/problemset/640/) | 640 |
 | [mabna](https://quera.org/problemset/594/) | 594 |
-| []() |  |
+| [adade khob](https://quera.org/problemset/66861/) | 66861 |
 | []() |  |
 | []() |  |
 | []() |  |
