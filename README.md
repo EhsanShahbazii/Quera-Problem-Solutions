@@ -199,7 +199,7 @@ ehsan.shahbazipc@gmail.com
 | [mabna](https://quera.org/problemset/594/) | 594 |
 | [adade khob](https://quera.org/problemset/66861/) | 66861 |
 | [zarbe matrix ha](https://quera.org/problemset/607/) | 607 |
-| []() |  |
+| [hamneheshti adad](https://quera.org/problemset/592/) | 592 |
 | []() |  |
 | []() |  |
 | []() |  |
