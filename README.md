@@ -195,7 +195,7 @@ ehsan.shahbazipc@gmail.com
 | [donbale fibonachi](https://quera.org/problemset/303/) | 303 |
 | [mabnaye aynei](https://quera.org/problemset/651/) | 651 |
 | [jame adad](https://quera.org/problemset/637/) | 637 |
-| []() |  |
+| [nardebuni](https://quera.org/problemset/640/) | 640 |
 | []() |  |
 | []() |  |
 | []() |  |
