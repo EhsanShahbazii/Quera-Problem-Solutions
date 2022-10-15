@@ -200,8 +200,8 @@ ehsan.shahbazipc@gmail.com
 | [adade khob](https://quera.org/problemset/66861/) | 66861 |
 | [zarbe matrix ha](https://quera.org/problemset/607/) | 607 |
 | [hamneheshti adad](https://quera.org/problemset/592/) | 592 |
-| []() |  |
-| []() |  |
+| [mohasebe pichide](https://quera.org/problemset/279/) | 279 |
+| [tabe namayi](https://quera.org/problemset/297/) | 297 |
 | []() |  |
 | []() |  |
 | []() |  |
