@@ -200,10 +200,10 @@ ehsan.shahbazipc@gmail.com
 | [adade khob](https://quera.org/problemset/66861/) | 66861 |
 | [zarbe matrix ha](https://quera.org/problemset/607/) | 607 |
 | [hamneheshti adad](https://quera.org/problemset/592/) | 592 |
-| [mohasebe pichide](https://quera.org/problemset/279/) | 279 |
+| [mohasebe pichide](https://quera.org/problemset/279/):warning: | 279 |
 | [tabe namayi](https://quera.org/problemset/297/) | 297 |
 | [alpha gontures](https://quera.org/problemset/66859/) | 66859 |
 | [tabe tavandar](https://quera.org/problemset/304/) | 304 |
 | [morattab sazi sarie](https://quera.org/problemset/643/) | 643 |
-| [masahate mahsur](https://quera.org/problemset/9739/) | 9739 |
-| [mohasebe seri](https://quera.org/problemset/638/) | 638 |
+| [masahate mahsur](https://quera.org/problemset/9739/):warning: | 9739 |
+| [mohasebe seri](https://quera.org/problemset/638/):warning: | 638 |
