@@ -1,4 +1,4 @@
-# Quera-Solutions
+# Quera-Problem-Solutions
 Quera Problem Solutions
 
 ## THIS REPOSITORY :white_check_mark:USEFUL:white_check_mark: FOR WHO:
