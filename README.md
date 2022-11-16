@@ -1,5 +1,5 @@
 # Quera-Problem-Solutions
-Quera Problem Solutions. over 170 problems.
+Quera Problem Solutions. over 170 problems..
 
 
 ## THIS REPOSITORY :white_check_mark:USEFUL:white_check_mark: FOR WHO:
