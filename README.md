@@ -1,28 +1,29 @@
 # Quera-Problem-Solutions
 
 ```
-readTextFile(file, (lines) => {
-        lines.forEach((line) => {
-          let values = line.trim().split(" ");
-          array.push(values);
-        });
+readTextFile(file, async (lines) => {
+  lines.forEach((line) => {
+    let values = line.trim().split(" ");
+    array.push(values);
+  });
 
-        array.forEach((dot) => {
-          drawPoint(context, dot[1] + "0", dot[2] + "0", dot[0], "#ddd", 8);
-        });
+  array.forEach((dot) => {
+    drawPoint(context, dot[1] + "0", dot[2] + "0", dot[0], "#ddd", 8);
+  });
 
-        for (let i = 0; i < array.length - 1; i++) {
-          drawLine_function(
-            context,
-            array[i][1] + "0",
-            array[i][2] + "0",
-            array[i + 1][1] + "0",
-            array[i + 1][2] + "0",
-            "yellow",
-            1
-          );
-        }
-      });
+  for (let i = 0; i < array.length - 1; i++) {
+    await drawLineWithDelay(context, array[i][1] + "0", array[i][2] + "0", array[i + 1][1] + "0", array[i + 1][2] + "0", "yellow", 1, 100);
+  }
+});
+
+function drawLineWithDelay(context, x1, y1, x2, y2, color, thickness, delay) {
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      drawLine_function(context, x1, y1, x2, y2, color, thickness);
+      resolve();
+    }, delay);
+  });
+}
 ```
 
 ![preview](https://ehsan.storage.iran.liara.space/git-hub/Quera-Problem-Solutions/preview.jpg)
