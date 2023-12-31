@@ -175,6 +175,7 @@ ehsan.shahbazipc@gmail.com
 | [shesh sang](https://quera.org/problemset/211019) | 211019 |
 | [Haj Mashti](https://quera.org/problemset/209104) | 209104 |
 | [Jadvale Dekarti](https://quera.org/problemset/209103) | 209103 |
+| [Laneh Kabutari](https://quera.org/problemset/187845) | 187845 |
 
 ### University
 
