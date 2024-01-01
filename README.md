@@ -176,6 +176,7 @@ ehsan.shahbazipc@gmail.com
 | [Haj Mashti](https://quera.org/problemset/209104) | 209104 |
 | [Jadvale Dekarti](https://quera.org/problemset/209103) | 209103 |
 | [Laneh Kabutari](https://quera.org/problemset/187845) | 187845 |
+| [Entekhabe Reshte](https://quera.org/problemset/182276) | 182276 |
 
 ### University
 
