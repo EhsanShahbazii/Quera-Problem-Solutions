@@ -180,6 +180,7 @@ ehsan.shahbazipc@gmail.com
 | [Modiriate Zamane Nima](https://quera.org/problemset/181680) | 181680 |
 | [Si Sharp](https://quera.org/problemset/181332) | 181332 |
 | [Divar Keshi](https://quera.org/problemset/179662) | 179662 |
+| [Daruye Corona](https://quera.org/problemset/178600) | 178600 |
 
 ### University
 
