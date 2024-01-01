@@ -186,6 +186,7 @@ ehsan.shahbazipc@gmail.com
 | [Khaneye Doost](https://quera.org/problemset/176782) | 176782 |
 | [Adade Shebhe Binary](https://quera.org/problemset/176775) | 176775 |
 | [Chahar Adad](https://quera.org/problemset/177663) | 177663 |
+| [Mario Va Online Shop](https://quera.org/problemset/193460) | 193460 |
 
 ### University
 
