@@ -2,7 +2,7 @@
 
 <!-- ![preview](https://ehsan.storage.iran.liara.space/git-hub/Quera-Problem-Solutions/preview.jpg) -->
 
-Quera Problem Solutions. over 185 problems...
+Quera Problem Solutions. over +190 problems solved...
 
 
 
