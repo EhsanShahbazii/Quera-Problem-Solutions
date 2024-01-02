@@ -192,6 +192,7 @@ ehsan.shahbazipc@gmail.com
 | [Khosh Amadid](https://quera.org/problemset/126106) | 126106 |
 | [Kake dar Quera](https://quera.org/problemset/144082) | 144082 |
 | [Barname Nevisi](https://quera.org/problemset/82378) | 82378 |
+| [Khafan Tarin Havadar](https://quera.org/problemset/176776) | 176776 |
 
 ### University
 
