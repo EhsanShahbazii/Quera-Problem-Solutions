@@ -190,6 +190,7 @@ ehsan.shahbazipc@gmail.com
 | [Mario Va Online Shop](https://quera.org/problemset/193460) | 193460 |
 | [Jamiate Khargush Ha](https://quera.org/problemset/157645) | 157645 |
 | [Khosh Amadid](https://quera.org/problemset/126106) | 126106 |
+| [Kake dar Quera](https://quera.org/problemset/144082) | 144082 |
 
 ### University
 
