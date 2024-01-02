@@ -191,6 +191,7 @@ ehsan.shahbazipc@gmail.com
 | [Jamiate Khargush Ha](https://quera.org/problemset/157645) | 157645 |
 | [Khosh Amadid](https://quera.org/problemset/126106) | 126106 |
 | [Kake dar Quera](https://quera.org/problemset/144082) | 144082 |
+| [Barname Nevisi](https://quera.org/problemset/82378) | 82378 |
 
 ### University
 
