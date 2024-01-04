@@ -25,6 +25,7 @@ ehsan.shahbazipc@gmail.com
 ## solved with
 - Java
 - C++
+- C#
 - Python
 - JavaScript
 - NodeJS
