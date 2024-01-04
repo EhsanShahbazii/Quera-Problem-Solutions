@@ -193,6 +193,7 @@ ehsan.shahbazipc@gmail.com
 | [Kake dar Quera](https://quera.org/problemset/144082) | 144082 |
 | [Barname Nevisi](https://quera.org/problemset/82378) | 82378 |
 | [Khafan Tarin Havadar](https://quera.org/problemset/176776) | 176776 |
+| [C Sharp Navardi](https://quera.org/problemset/170059) | 170059 |
 
 ### University
 
@@ -234,4 +235,5 @@ ehsan.shahbazipc@gmail.com
 | [masahate mahsur](https://quera.org/problemset/9739/):warning: | 9739 |
 | [mohasebe seri](https://quera.org/problemset/638/):warning: | 638 |
 | [Entekhabate Riasate Jumhuri](https://quera.org/problemset/604) | 604 |
+| [Kashi Kari](https://quera.org/problemset/605) | 605 |
 | [Kashi Kari](https://quera.org/problemset/605) | 605 |
