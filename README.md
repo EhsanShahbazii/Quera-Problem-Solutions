@@ -238,3 +238,4 @@ ehsan.shahbazipc@gmail.com
 | [Entekhabate Riasate Jumhuri](https://quera.org/problemset/604) | 604 |
 | [Kashi Kari](https://quera.org/problemset/605) | 605 |
 | [Kashi Kari](https://quera.org/problemset/605) | 605 |
+| [Se Tayi Fisagurasi](https://quera.org/problemset/654) | 654 |
