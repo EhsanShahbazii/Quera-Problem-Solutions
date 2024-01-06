@@ -196,6 +196,7 @@ ehsan.shahbazipc@gmail.com
 | [Khafan Tarin Havadar](https://quera.org/problemset/176776) | 176776 |
 | [C Sharp Navardi](https://quera.org/problemset/170059) | 170059 |
 | [Sinema Barareh](https://quera.org/problemset/179663) | 179663 |
+| [Takhmine Zamane Motalee](https://quera.org/problemset/68266) | 68266 |
 
 ### University
 
