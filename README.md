@@ -239,3 +239,4 @@ ehsan.shahbazipc@gmail.com
 | [Kashi Kari](https://quera.org/problemset/605) | 605 |
 | [Kashi Kari](https://quera.org/problemset/605) | 605 |
 | [Se Tayi Fisagurasi](https://quera.org/problemset/654) | 654 |
+| [Adade Yekta](https://quera.org/problemset/148099) | 148099 |
