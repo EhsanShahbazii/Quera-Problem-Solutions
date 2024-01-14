@@ -31,6 +31,7 @@ ehsan.shahbazipc@gmail.com
 - NodeJS
 - PHP
 - Go
+- Ruby
 
 ## Problem Lists
 ### Tournament
