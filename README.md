@@ -28,7 +28,6 @@ ehsan.shahbazipc@gmail.com
 - C#
 - Python
 - JavaScript
-- NodeJS
 - PHP
 - Go
 - Ruby
