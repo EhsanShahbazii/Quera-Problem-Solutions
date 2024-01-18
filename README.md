@@ -241,3 +241,13 @@ ehsan.shahbazipc@gmail.com
 | [Kashi Kari](https://quera.org/problemset/605) | 605 |
 | [Se Tayi Fisagurasi](https://quera.org/problemset/654) | 654 |
 | [Adade Yekta](https://quera.org/problemset/148099) | 148099 |
+
+### Technology
+
+| Problem Name & Link | Problem ID |
+| ------------ | ---------- |
+| [Navbar](https://quera.org/problemset/182542) | 182542 |
+| [Mock Star](https://quera.org/problemset/182260) | 182260 |
+| [Modiriate Zamane Nima](https://quera.org/problemset/181680) | 181680 |
+
+
