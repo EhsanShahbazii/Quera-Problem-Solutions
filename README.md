@@ -239,6 +239,5 @@ ehsan.shahbazipc@gmail.com
 | [mohasebe seri](https://quera.org/problemset/638/):warning: | 638 |
 | [Entekhabate Riasate Jumhuri](https://quera.org/problemset/604) | 604 |
 | [Kashi Kari](https://quera.org/problemset/605) | 605 |
-| [Kashi Kari](https://quera.org/problemset/605) | 605 |
 | [Se Tayi Fisagurasi](https://quera.org/problemset/654) | 654 |
 | [Adade Yekta](https://quera.org/problemset/148099) | 148099 |
