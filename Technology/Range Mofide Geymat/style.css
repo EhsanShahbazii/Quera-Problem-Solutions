@@ -1,0 +1,16 @@
+body {
+	background-color: whitesmoke;
+	font-family: "Courier New", Courier, monospace;
+	text-align: center;
+}
+
+.container {
+	margin: auto;
+	width: max-content;
+}
+
+.price {
+    height: 5px;
+	width: 500px;
+	background-image: linear-gradient(to right, rgb(255, 0, 0),rgb(0, 255, 0));
+}
