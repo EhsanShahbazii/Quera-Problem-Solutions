@@ -249,5 +249,7 @@ ehsan.shahbazipc@gmail.com
 | [Navbar](https://quera.org/problemset/182542) | 182542 |
 | [Mock Star](https://quera.org/problemset/182260) | 182260 |
 | [Modiriate Zamane Nima](https://quera.org/problemset/181680) | 181680 |
+| [Baalin](https://quera.org/problemset/175884) | 175884 |
+| [Typing Effect](https://quera.org/problemset/134352) | 134352 |
 
 
