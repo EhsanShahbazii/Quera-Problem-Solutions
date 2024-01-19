@@ -251,5 +251,8 @@ ehsan.shahbazipc@gmail.com
 | [Modiriate Zamane Nima](https://quera.org/problemset/181680) | 181680 |
 | [Baalin](https://quera.org/problemset/175884) | 175884 |
 | [Typing Effect](https://quera.org/problemset/134352):warning: | 134352 |
+| [Range Mofide Geymat](https://quera.org/problemset/134351) | 134351 |
+| [Salam Codecup](https://quera.org/problemset/132260) | 132260 |
+| [Salam DevOps](https://quera.org/problemset/129786) | 129786 |
 
 
