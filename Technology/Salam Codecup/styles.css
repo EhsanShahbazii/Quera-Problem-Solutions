@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Outfit', sans-serif;
+}
+
+.container{
+    background-color: rgb(27,29,46);
+    height: 100vh;
+}
+
+.envelope{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    border-radius: 0px 0px 10px 10px;
+    margin: 0 auto;
+    top: 300px;
+    background-color: rgb(90, 240, 182);
+}
+
+.cover{
+    position: absolute;
+    height: 0px;
+    width: 0px;
+}
+
+.cover.top{
+    border-left: 150px solid transparent;
+    border-right: 150px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-top: 100px solid rgb(90, 240, 182);
+    transform-origin: top;
+}
+
+.cover.bottom.right{
+    border-left: 150px solid transparent;
+    border-right: 150px solid rgb(90,209,151);
+    border-bottom: 100px solid rgb(90,209,151);
+    border-top: 100px solid transparent;
+    border-radius: 0px 0px 10px 10px;
+    z-index: 5;
+}
+
+.cover.left{
+    border-left: 150px solid rgb(90, 225, 167);
+    border-right: 150px solid transparent;
+    border-bottom: 100px solid transparent;
+    border-top: 100px solid transparent;
+    border-bottom-left-radius: 10px;
+    z-index: 5;
+}
+
+.putIn{
+    transition: transform 0.7s ease;
+}
+
+.pullOut{
+    transition: transform 0.7s ease 0.5s;
+    transform: translateY(-200px);
+}
+
+.letter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(252, 228, 94);
+    width: 95%;
+    height: 100%;
+    margin:0 auto;
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+    border-radius: 10px;
+}
+
+.open{
+    transform: rotateX(180deg);
+    transition: transform 0.4s ease;
+    z-index: 0;
+}
+
+.close{
+    transform:rotateX(0deg);
+    z-index:1;
+    transition: transform 0.4s ease 0.7s,z-index 0.1s ease 0.6s;
+}
+
