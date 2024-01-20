@@ -254,5 +254,10 @@ ehsan.shahbazipc@gmail.com
 | [Range Mofide Geymat](https://quera.org/problemset/134351) | 134351 |
 | [Salam Codecup](https://quera.org/problemset/132260) | 132260 |
 | [Salam DevOps](https://quera.org/problemset/129786) | 129786 |
+| [Mogaddame](https://quera.org/problemset/129767) | 129767 |
+| [Mojazza](https://quera.org/problemset/129726) | 129726 |
+| [Khosh Amadid](https://quera.org/problemset/126106) | 126106 |
+| [Snap Shop](https://quera.org/problemset/109570) | 109570 |
+| [Tabdile Vahed](https://quera.org/problemset/109568) | 109568 |
 
 
