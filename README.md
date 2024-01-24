@@ -257,5 +257,9 @@ ehsan.shahbazipc@gmail.com
 | [Khosh Amadid](https://quera.org/problemset/126106) | 126106 |
 | [Snap Shop](https://quera.org/problemset/109570) | 109570 |
 | [Tabdile Vahed](https://quera.org/problemset/109568) | 109568 |
-
+| [Peydayesh](https://quera.org/problemset/102250):warning: | 102250 |
+| [Bale](https://quera.org/problemset/98448) | 98448 |
+| [Bazi Tafazol](https://quera.org/problemset/87176):warning: | 87176 |
+| [Nazarie Risman](https://quera.org/problemset/83360) | 83360 |
+| [Marpich](https://quera.org/problemset/82518) | 82518 |
 
