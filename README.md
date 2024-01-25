@@ -1,6 +1,6 @@
 # Quera-Problem-Solutions
 
-<!-- ![preview](https://ehsan.storage.iran.liara.space/git-hub/Quera-Problem-Solutions/preview.jpg) -->
+![preview](https://quera.org/static/react/assets/quera_logo-fa17772f.svg)
 
 Quera Problem Solutions. over <b>+220 problems</b> solved...
 
