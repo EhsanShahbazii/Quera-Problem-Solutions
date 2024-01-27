@@ -44,7 +44,7 @@ ehsan.shahbazipc@gmail.com
 |7| [roze azadi bayan dar barare](https://quera.org/problemset/10162/) | 10162 |
 |8| [chape bar aks](https://quera.org/problemset/3405/) | 3405 |
 |9| [hamayeshe zendegi behtar](https://quera.org/problemset/10325/) | 10325 |
-|10 [do nogte khat](https://quera.org/problemset/3414/) | 3414 |
+|10| [do nogte khat](https://quera.org/problemset/3414/) | 3414 |
 |11| [khar dar chaman faravone](https://quera.org/problemset/4065/) | 4065 |
 |12| [behdasht va salamat](https://quera.org/problemset/51865/) | 51865 |
 |13| [komak be capi](https://quera.org/problemset/8838/) | 8838 |
