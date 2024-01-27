@@ -198,68 +198,68 @@ ehsan.shahbazipc@gmail.com
 
 ### University
 
-| Problem Name & Link | Problem ID |
-| ------------ | ---------- |
-| [factorial](https://quera.org/problemset/589/) | 589 |
-| [adade fisagorasi](https://quera.org/problemset/280/) | 280 |
-| [adad chop kon](https://quera.org/problemset/9774/) | 9774 |
-| [tavan do](https://quera.org/problemset/616/) | 616 |
-| [kamel budan ya nabudan](https://quera.org/problemset/282/) | 282 |
-| [chop morabae](https://quera.org/problemset/591/) | 591 |
-| [maximum](https://quera.org/problemset/588/) | 588 |
-| [adade khode maglub](https://quera.org/problemset/617/) | 617 |
-| [tarikh tavallod](https://quera.org/problemset/615/) | 615 |
-| [adade avval](https://quera.org/problemset/293/) | 293 |
-| [lozi haye setarei](https://quera.org/problemset/9773/):warning: | 9773 |
-| [avval bini](https://quera.org/problemset/649/) | 649 |
-| [chope lozi](https://quera.org/problemset/618/):warning: | 618 |
-| [mosallase khayyam](https://quera.org/problemset/595/) | 595 |
-| [yaftane adade avval](https://quera.org/problemset/593/) | 593 |
-| [sigma gir](https://quera.org/problemset/647/) | 647 |
-| [bmm](https://quera.org/problemset/305/) | 305 |
-| [farzad film bin](https://quera.org/problemset/655/):warning: | 655 |
-| [bmm va kmm](https://quera.org/problemset/590/) | 590 |
-| [halazune mokhtasati](https://quera.org/problemset/597/):warning: | 597 |
-| [donbale fibonachi](https://quera.org/problemset/303/) | 303 |
-| [mabnaye aynei](https://quera.org/problemset/651/) | 651 |
-| [jame adad](https://quera.org/problemset/637/) | 637 |
-| [nardebuni](https://quera.org/problemset/640/) | 640 |
-| [mabna](https://quera.org/problemset/594/) | 594 |
-| [adade khob](https://quera.org/problemset/66861/) | 66861 |
-| [zarbe matrix ha](https://quera.org/problemset/607/) | 607 |
-| [hamneheshti adad](https://quera.org/problemset/592/) | 592 |
-| [mohasebe pichide](https://quera.org/problemset/279/):warning: | 279 |
-| [tabe namayi](https://quera.org/problemset/297/) | 297 |
-| [alpha gontures](https://quera.org/problemset/66859/) | 66859 |
-| [tabe tavandar](https://quera.org/problemset/304/) | 304 |
-| [morattab sazi sarie](https://quera.org/problemset/643/) | 643 |
-| [masahate mahsur](https://quera.org/problemset/9739/):warning: | 9739 |
-| [mohasebe seri](https://quera.org/problemset/638/):warning: | 638 |
-| [Entekhabate Riasate Jumhuri](https://quera.org/problemset/604) | 604 |
-| [Kashi Kari](https://quera.org/problemset/605) | 605 |
-| [Se Tayi Fisagurasi](https://quera.org/problemset/654) | 654 |
-| [Adade Yekta](https://quera.org/problemset/148099) | 148099 |
+| No | Problem Name & Link | Problem ID |
+| -- | ------------ | ---------- |
+|1| [factorial](https://quera.org/problemset/589/) | 589 |
+|2| [adade fisagorasi](https://quera.org/problemset/280/) | 280 |
+|3| [adad chop kon](https://quera.org/problemset/9774/) | 9774 |
+|4| [tavan do](https://quera.org/problemset/616/) | 616 |
+|5| [kamel budan ya nabudan](https://quera.org/problemset/282/) | 282 |
+|6| [chop morabae](https://quera.org/problemset/591/) | 591 |
+|7| [maximum](https://quera.org/problemset/588/) | 588 |
+|8| [adade khode maglub](https://quera.org/problemset/617/) | 617 |
+|9| [tarikh tavallod](https://quera.org/problemset/615/) | 615 |
+|10| [adade avval](https://quera.org/problemset/293/) | 293 |
+|11| [lozi haye setarei](https://quera.org/problemset/9773/):warning: | 9773 |
+|12| [avval bini](https://quera.org/problemset/649/) | 649 |
+|13| [chope lozi](https://quera.org/problemset/618/):warning: | 618 |
+|14| [mosallase khayyam](https://quera.org/problemset/595/) | 595 |
+|15| [yaftane adade avval](https://quera.org/problemset/593/) | 593 |
+|16| [sigma gir](https://quera.org/problemset/647/) | 647 |
+|17| [bmm](https://quera.org/problemset/305/) | 305 |
+|18| [farzad film bin](https://quera.org/problemset/655/):warning: | 655 |
+|19| [bmm va kmm](https://quera.org/problemset/590/) | 590 |
+|20| [halazune mokhtasati](https://quera.org/problemset/597/):warning: | 597 |
+|21| [donbale fibonachi](https://quera.org/problemset/303/) | 303 |
+|22| [mabnaye aynei](https://quera.org/problemset/651/) | 651 |
+|23| [jame adad](https://quera.org/problemset/637/) | 637 |
+|24| [nardebuni](https://quera.org/problemset/640/) | 640 |
+|25| [mabna](https://quera.org/problemset/594/) | 594 |
+|26| [adade khob](https://quera.org/problemset/66861/) | 66861 |
+|27| [zarbe matrix ha](https://quera.org/problemset/607/) | 607 |
+|28| [hamneheshti adad](https://quera.org/problemset/592/) | 592 |
+|29| [mohasebe pichide](https://quera.org/problemset/279/):warning: | 279 |
+|30| [tabe namayi](https://quera.org/problemset/297/) | 297 |
+|31| [alpha gontures](https://quera.org/problemset/66859/) | 66859 |
+|32| [tabe tavandar](https://quera.org/problemset/304/) | 304 |
+|33| [morattab sazi sarie](https://quera.org/problemset/643/) | 643 |
+|34| [masahate mahsur](https://quera.org/problemset/9739/):warning: | 9739 |
+|35| [mohasebe seri](https://quera.org/problemset/638/):warning: | 638 |
+|36| [Entekhabate Riasate Jumhuri](https://quera.org/problemset/604) | 604 |
+|37| [Kashi Kari](https://quera.org/problemset/605) | 605 |
+|38| [Se Tayi Fisagurasi](https://quera.org/problemset/654) | 654 |
+|39| [Adade Yekta](https://quera.org/problemset/148099) | 148099 |
 
 ### Technology
 
-| Problem Name & Link | Problem ID |
-| ------------ | ---------- |
-| [Navbar](https://quera.org/problemset/182542) | 182542 |
-| [Mock Star](https://quera.org/problemset/182260) | 182260 |
-| [Modiriate Zamane Nima](https://quera.org/problemset/181680) | 181680 |
-| [Baalin](https://quera.org/problemset/175884) | 175884 |
-| [Typing Effect](https://quera.org/problemset/134352):warning: | 134352 |
-| [Range Mofide Geymat](https://quera.org/problemset/134351) | 134351 |
-| [Salam Codecup](https://quera.org/problemset/132260) | 132260 |
-| [Salam DevOps](https://quera.org/problemset/129786) | 129786 |
-| [Mogaddame](https://quera.org/problemset/129767) | 129767 |
-| [Mojazza](https://quera.org/problemset/129726) | 129726 |
-| [Khosh Amadid](https://quera.org/problemset/126106) | 126106 |
-| [Snap Shop](https://quera.org/problemset/109570) | 109570 |
-| [Tabdile Vahed](https://quera.org/problemset/109568) | 109568 |
-| [Peydayesh](https://quera.org/problemset/102250):warning: | 102250 |
-| [Bale](https://quera.org/problemset/98448) | 98448 |
-| [Bazi Tafazol](https://quera.org/problemset/87176):warning: | 87176 |
-| [Nazarie Risman](https://quera.org/problemset/83360) | 83360 |
-| [Marpich](https://quera.org/problemset/82518) | 82518 |
+| No | Problem Name & Link | Problem ID |
+| -- | ------------ | ---------- |
+|1| [Navbar](https://quera.org/problemset/182542) | 182542 |
+|2| [Mock Star](https://quera.org/problemset/182260) | 182260 |
+|3| [Modiriate Zamane Nima](https://quera.org/problemset/181680) | 181680 |
+|4| [Baalin](https://quera.org/problemset/175884) | 175884 |
+|5| [Typing Effect](https://quera.org/problemset/134352):warning: | 134352 |
+|6| [Range Mofide Geymat](https://quera.org/problemset/134351) | 134351 |
+|7| [Salam Codecup](https://quera.org/problemset/132260) | 132260 |
+|8| [Salam DevOps](https://quera.org/problemset/129786) | 129786 |
+|9| [Mogaddame](https://quera.org/problemset/129767) | 129767 |
+|10| [Mojazza](https://quera.org/problemset/129726) | 129726 |
+|11| [Khosh Amadid](https://quera.org/problemset/126106) | 126106 |
+|12| [Snap Shop](https://quera.org/problemset/109570) | 109570 |
+|13| [Tabdile Vahed](https://quera.org/problemset/109568) | 109568 |
+|14| [Peydayesh](https://quera.org/problemset/102250):warning: | 102250 |
+|15| [Bale](https://quera.org/problemset/98448) | 98448 |
+|16| [Bazi Tafazol](https://quera.org/problemset/87176):warning: | 87176 |
+|17| [Nazarie Risman](https://quera.org/problemset/83360) | 83360 |
+|18| [Marpich](https://quera.org/problemset/82518) | 82518 |
 
