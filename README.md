@@ -1,8 +1,5 @@
 # Quera-Problem-Solutions
 
-FgMBAgABAAH8AwOG4kw63Q==
-49.12.127.193
-
 ![preview](https://quera.org/static/react/assets/quera_logo-fa17772f.svg)
 
 Quera Problem Solutions. over <b>+220 problems</b> solved...
