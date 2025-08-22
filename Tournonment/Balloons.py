@@ -1,8 +1,8 @@
-def can_form_acpc(s):
+def can_form_acpc(s: str) -> bool:
     target = "acpc"
     i = 0
-    for char in s.strip().lower():
-        if char == target[i]:
+    for ch in s.strip():
+        if ch == target[i]:
             i += 1
             if i == 4:
                 return True
@@ -10,5 +10,10 @@ def can_form_acpc(s):
 
 t = int(input())
 for _ in range(t):
-    s = input()
+    s = input().strip()
+    
+    if len(s) == 4 and s == "acpc":
+        print("NO")
+        continue
+    
     print("YES" if can_form_acpc(s) else "NO")

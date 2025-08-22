@@ -1,13 +1,9 @@
 import math
 
-m, n = map(int, input().split(' '))
+m, M = map(int, input().split())
 
-try:
-    a = math.sqrt(n**2 - m**2) 
-    res = a * m
-    if res == 0:
-        print('impossible')
-    else:
-        print(res)
-except:
-    print('impossible')
+if m >= M:
+    print("impossible")
+else:
+    area = m * math.sqrt(M*M - m*m)
+    print(f"{area:.12f}")
